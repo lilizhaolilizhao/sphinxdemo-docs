@@ -11,7 +11,8 @@ Welcome to dalongrongdemo's documentation!
    :caption: Table Of Contents:
 
    intro
-
+   docs
+   config
 
 
 Indices and tables
