@@ -10,7 +10,9 @@ Welcome to dalongrongdemo's documentation!
    :maxdepth: 2
    :caption: 文档手册:
 
-   contents
+   intro
+   docs
+   config
 
 
 Indices and tables

@@ -22,7 +22,7 @@ copyright = '2019, dalong'
 author = 'dalong'
 
 # The full version, including alpha/beta/rc tags
-release = 'v1.0'
+release = 'v1.2'
 
 
 # -- General configuration ---------------------------------------------------
