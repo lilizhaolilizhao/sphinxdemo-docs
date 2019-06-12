@@ -8,7 +8,7 @@ Welcome to dalongrongdemo's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table Of Contents:
+   :caption: 文档手册:
 
    intro
    docs
